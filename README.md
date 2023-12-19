@@ -17,5 +17,16 @@ Three csv files with bikeshare data was used. They gatter data from the citys of
 The repo was inspired by https://github.com/udacity/pdsnd_github. The project was proposed by Udacity Python course. 
 
 
+
 Additional change 1
 Additional change 2
+
+
+
+
+
+
+Refactoring additional line 1 
+Refactoring additional line 2 
+Refactoring additional line 3 
+Refactoring additional line 4
